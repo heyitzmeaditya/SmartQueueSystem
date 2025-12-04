@@ -63,17 +63,3 @@ This system is perfect for:
 
 
 
-SmartQueueSystem/
-├── smartQueueFrontend/
-│ ├── public/
-│ ├── src/
-│ └── package.json
-├── smartQueueBackend/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── server.js
-├── package.json
-└── README.md
-
-
